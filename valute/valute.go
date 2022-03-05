@@ -1,4 +1,4 @@
-package utils
+package valute
 
 import (
 	"encoding/xml"
